@@ -51,5 +51,5 @@ To run this project, you'll need the following Python libraries:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ames-housing-prediction.git
-   cd ames-housing-prediction
+   git clone https://github.com/vendatta-1/Linear-Regression.git
+   cd Linear-Regression
